@@ -13,7 +13,7 @@ const AboutSection = () => {
       description: "Profissionais qualificados e experientes prontos para oferecer o melhor cuidado."
     },
     {
-      icon: <Users className="text-primary" size={32} />,
+      icon: <Users className="text-primary" size={32} />,aaaaaa
       title: "Equipe Dedicada",
       description: "Time comprometido com o bem-estar e felicidade do seu companheiro de quatro patas."
     },
