@@ -61,7 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'petshop-orange': 'hsl(var(--petshop-orange))',
+				'petshop-green': 'hsl(var(--petshop-green))',
+				'petshop-cream': 'hsl(var(--petshop-cream))',
+				'petshop-white': 'hsl(var(--petshop-white))',
+				'petshop-dark': 'hsl(var(--petshop-dark))'
+			},
+			fontFamily: {
+				sans: ['Inter', 'system-ui', 'sans-serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
